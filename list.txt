@@ -1,2 +1,7 @@
 gstatic.com
-yt3.ggpht.com
+^*\.ggpht\.com$
+safebrowsing.google.com
+^*\.googleusercontent\.com$
+^suggestqueries-*\.youtube\.com$
+jnn-pa.googleapis.com
+cloudsearch.googleapis.com
