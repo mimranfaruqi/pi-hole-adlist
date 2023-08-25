@@ -25,7 +25,6 @@ viewyentreat.guru
 wannessdebus.com
 whoursie.com
 www.google-analytics.com
-www.googletagmanager.com
 www.push-services.com
 youradexchange.com
 safebrowsing.google.com
@@ -54,7 +53,6 @@ ust.chatango.com
 viewyentreat.guru
 wannessdebus.com
 whoursie.com
-www.crichd.live
 www.google-analytics.com
 www.push-services.com
 youradexchange.com
